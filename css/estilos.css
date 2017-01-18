@@ -1,0 +1,20 @@
+html, body{
+	/*background: rgba(48, 91, 226, 0.21);*/
+	background-image: url("../img/fondo.jpg"); 
+}
+
+#about{
+	height: 100%;
+	color: red;
+}
+#logo{
+	font-family: bernadette;
+	font-size: 40px;
+	margin-left: 10px;
+}
+#logo a{
+	text-decoration: none;
+}
+#prog{
+
+}
